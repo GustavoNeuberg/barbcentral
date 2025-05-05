@@ -19,6 +19,11 @@ body {
     text-align: justify;
 }
 
+.box {
+    margin: auto;
+    max-width: 1200px;
+}
+
 .container {
     width: 90%;
     max-width: 1200px;
@@ -34,6 +39,7 @@ header.navbar {
 }
 
 .logo img {
+    margin-top: 30px;
     height: 250px;
     
 }
